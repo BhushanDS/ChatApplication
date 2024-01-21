@@ -1,3 +1,5 @@
-Launch Server.exe
-Launch multiple Client.exe
+Launch Server.exe, 
+
+Launch multiple Client.exe, 
+
 Enjoy chatting
